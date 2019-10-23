@@ -2,3 +2,6 @@ body {
     background-color: salmon;
     border: solid black;
 }
+p {
+    color: aquamarine;
+}
